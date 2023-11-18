@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cinematic particle dust effect
+* source:	https://sketchfab.com/3d-models/cinematic-particle-dust-effect-f19d6c90e4a34f7d98cf77edd720e6f2
+* author:	DrawingDoom (https://sketchfab.com/kimgd247)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cinematic particle dust effect" (https://sketchfab.com/3d-models/cinematic-particle-dust-effect-f19d6c90e4a34f7d98cf77edd720e6f2) by DrawingDoom (https://sketchfab.com/kimgd247) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
